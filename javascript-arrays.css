@@ -1,0 +1,23 @@
+html {
+	position: relative;
+	min-height: 100%;
+	width: 100%;
+}
+body {
+	font-family: Arial;
+	margin: 0 auto;
+	height: 100%;
+	line-height: 140%;
+}
+main {
+	width: 90%;
+	margin: 0 auto;
+	padding: 10px 0 50px;
+}
+h1 {
+	font-family: Ariel;
+	text-align: center;
+}
+h4 {
+	margin: 15px auto 0;
+}
