@@ -4,20 +4,20 @@ Modify arrays with JavaScript methods:
 
 &bull; toString(),
 
-join()
+&bull; join()
 
-pop()
+&bull; pop()
 
-push()
+&bull; push()
 
-shift()
+&bull; shift()
 
-unshift()
+&bull; unshift()
 
-splice()
+&bull; splice()
 
-slice()
+&bull; slice()
 
-concat()
+&bull; concat()
 
 Also, using the length property and the delete operator.
